@@ -1,0 +1,3 @@
+# rubric
+
+Module placeholder.
